@@ -2,10 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-souza-812616227/)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoLS29)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoLS29&hide=contribs,prs&show_icons=true&theme=dark#gh-dark-mode-only)
 ## Tecnologias que eu uso:
 
 <div Style="display: inline_block"><br/>
@@ -19,6 +16,4 @@
     <img aling = "center" alt = "microsoft-powerpoint" src ="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
     <img aling = "center" alt = "microsoft-word" src ="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
     <img aling = "center" alt = "MySQL" src ="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
 </div>
-## Tecnologias que eu uso:
